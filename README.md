@@ -1,6 +1,6 @@
 /*
 The project contains two packages:
-1- ANA.winrar in java. The code is designed by Hama Rashid, D. N.
+1- ANA.rar in java. The code is designed by Hama Rashid, D. N.
 2- ana.zip, this is converted code matlab. 
 
 ***
